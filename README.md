@@ -5,8 +5,8 @@ Scripts for downloading pdfs for all ACL papers from a particular conference / y
 Note: this has only been tested on EMNLP 2019
 
 Requirements:
-- wget
-- bs4
+- requests
+- beautifulsoup4
 - python-wget
 
 Scripts:
