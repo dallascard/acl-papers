@@ -1,4 +1,4 @@
-# acl-paper
+# acl-papers
 
 Scripts for downloading pdfs for all ACL papers from a particular conference / year
 
