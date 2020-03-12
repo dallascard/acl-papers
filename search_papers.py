@@ -22,7 +22,7 @@ def main():
     year = options.year
     query = options.query
 
-    files = glob.glob(os.path.join('data', 'acl', conf, year, 'text', '*.txt'))
+    files = glob.glob(os.path.join('data', conf, year, 'text', '*.txt'))
     files.sort()
     print(len(files))
 
